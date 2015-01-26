@@ -1,4 +1,4 @@
-# docker-django
+# xdrum/docker-django
 # basic Django container for docker
 
 A Simple image based on CentOS 6 with python 2.7 (SCL repository)
